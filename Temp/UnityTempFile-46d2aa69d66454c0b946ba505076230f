@@ -1,0 +1,108 @@
+-debug
+-target:library
+-nowarn:0169
+-out:'Temp/Assembly-CSharp.dll'
+-r:'/Applications/Unity/Unity5.app/Contents/Frameworks/Managed/UnityEngine.dll'
+-r:'Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll'
+-r:'/Applications/Unity/Unity5.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll'
+-r:'/Applications/Unity/Unity5.app/Contents/Frameworks/Managed/UnityEditor.dll'
+-r:'/Applications/Unity/Unity5.app/Contents/PlaybackEngines/iossupport/UnityEditor.iOS.Extensions.Xcode.dll'
+-define:UNITY_5_0_2
+-define:UNITY_5_0
+-define:UNITY_5
+-define:ENABLE_LICENSE_RENAME
+-define:ENABLE_NEW_BUGREPORTER
+-define:ENABLE_2D_PHYSICS
+-define:ENABLE_4_6_FEATURES
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_FRAME_DEBUGGER
+-define:ENABLE_GENERICS
+-define:ENABLE_HOME_SCREEN
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_LIGHT_PROBES_LEGACY
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_NEW_HIERARCHY
+-define:ENABLE_PHYSICS
+-define:ENABLE_PHYSICS_PHYSX3
+-define:ENABLE_PLUGIN_INSPECTOR
+-define:ENABLE_SHADOWS
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_AUDIOMIXER_SUSPEND
+-define:ENABLE_NONPRO
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:INCLUDE_IL2CPP
+-define:PLATFORM_SUPPORTS_MONO
+-define:UNITY_IPHONE
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_GAMECENTER
+-define:ENABLE_NETWORK
+-define:UNITY_IPHONE_API
+-define:UNITY_IOS
+-define:ENABLE_TEXTUREID_MAP
+-define:PLAYERCONNECTION_LISTENS_FIXED_PORT
+-define:DEBUGGER_LISTENS_FIXED_PORT
+-define:ENABLE_MONO
+-define:ENABLE_PROFILER
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_OSX
+'Assets/mobile game menu kit/Sample Assets/2D/Scripts/Camera2DFollow.cs'
+'Assets/mobile game menu kit/Sample Assets/2D/Scripts/CameraFollow.cs'
+'Assets/mobile game menu kit/Sample Assets/2D/Scripts/Platformer2DUserControl.cs'
+'Assets/mobile game menu kit/Sample Assets/2D/Scripts/PlatformerCharacter2D.cs'
+'Assets/mobile game menu kit/Sample Assets/2D/Scripts/Restarter.cs'
+'Assets/mobile game menu kit/script/demo/call_ad_gift.cs'
+'Assets/mobile game menu kit/script/demo/call_lives.cs'
+'Assets/mobile game menu kit/script/demo/call_lose.cs'
+'Assets/mobile game menu kit/script/demo/call_win.cs'
+'Assets/mobile game menu kit/script/demo/checkpoint.cs'
+'Assets/mobile game menu kit/script/demo/death_collider.cs'
+'Assets/mobile game menu kit/script/demo/demo_controller.cs'
+'Assets/mobile game menu kit/script/demo/exit.cs'
+'Assets/mobile game menu kit/script/demo/get_score_points.cs'
+'Assets/mobile game menu kit/script/demo/item_demo.cs'
+'Assets/mobile game menu kit/script/demo/take_money.cs'
+'Assets/mobile game menu kit/script/demo/take_star.cs'
+'Assets/mobile game menu kit/script/end_uGUI.cs'
+'Assets/mobile game menu kit/script/game_scene/continue_window.cs'
+'Assets/mobile game menu kit/script/game_scene/game_uGUI.cs'
+'Assets/mobile game menu kit/script/home scene/Info_bar.cs'
+'Assets/mobile game menu kit/script/home scene/ads_master.cs'
+'Assets/mobile game menu kit/script/home scene/game_master.cs'
+'Assets/mobile game menu kit/script/home scene/gift/feedback_window.cs'
+'Assets/mobile game menu kit/script/home scene/gift/gift_button.cs'
+'Assets/mobile game menu kit/script/home scene/gift/gift_manager.cs'
+'Assets/mobile game menu kit/script/home scene/manage_menu_uGUI.cs'
+'Assets/mobile game menu kit/script/home scene/profiles/new_profile_window.cs'
+'Assets/mobile game menu kit/script/home scene/profiles/pad/character_button.cs'
+'Assets/mobile game menu kit/script/home scene/profiles/pad/new_profile_pad.cs'
+'Assets/mobile game menu kit/script/home scene/profiles/profile_button.cs'
+'Assets/mobile game menu kit/script/home scene/profiles/profile_manager.cs'
+'Assets/mobile game menu kit/script/home scene/score rank/rank_manager.cs'
+'Assets/mobile game menu kit/script/home scene/score rank/score_rank_item.cs'
+'Assets/mobile game menu kit/script/home scene/stage menu/manual setup/manual_stage_screen.cs'
+'Assets/mobile game menu kit/script/home scene/stage menu/manual setup/manual_world_screen.cs'
+'Assets/mobile game menu kit/script/home scene/stage menu/map/manage_linear_map.cs'
+'Assets/mobile game menu kit/script/home scene/stage menu/pad_scroll.cs'
+'Assets/mobile game menu kit/script/home scene/stage menu/scroll_snap.cs'
+'Assets/mobile game menu kit/script/home scene/stage menu/single_screen.cs'
+'Assets/mobile game menu kit/script/home scene/stage menu/stage_ico_uGUI.cs'
+'Assets/mobile game menu kit/script/home scene/stage menu/world_ico_uGUI.cs'
+'Assets/mobile game menu kit/script/home scene/store/store_button.cs'
+'Assets/mobile game menu kit/script/home scene/store/store_item_manager.cs'
+'Assets/mobile game menu kit/script/home scene/store/store_manager.cs'
+'Assets/mobile game menu kit/script/home scene/store/store_tabs.cs'
+'Assets/mobile game menu kit/script/options_menu.cs'
+'Assets/mobile game menu kit/script/pad_selection_color.cs'
+-r:'/Applications/Unity/Unity5.app/Contents/Frameworks/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
+-r:'/Applications/Unity/Unity5.app/Contents/Frameworks/Mono/lib/mono/unity/System.Xml.Linq.dll'
